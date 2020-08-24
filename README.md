@@ -35,9 +35,13 @@ Here are some ideas to get you started:
 
 👨‍💻 All of my projects are available [here](https://github.com/goralive?tab=repositories)
 
+🔨 Latest frameworks [api-ui-java](https://github.com/Goralive/api-testing-framework)
+
 💬 Ask me about **QA, AQA can share my knowledge with you**
 
-🌱 I’m currently learning **Java and JS/TS, if you want to become my mentor, feel free to contact me**
+🌱 I’m currently learning **Java and JS/TS, passing courses from udemy platform.**
+
+👋 If you want to become my mentor or just to say hi feel free to contact me
 
 <p align="left"> 📫 How to reach me --->   
 <a href="mailto:nosovskyigor@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailto:nosovskyigor@gmail.com" height="20" width="20" /></a>
@@ -48,6 +52,3 @@ Here are some ideas to get you started:
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=goralive&show_icons=true" alt="goralive" />
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->

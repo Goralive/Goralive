@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 👨‍💻 All of my projects are available [here](https://github.com/goralive?tab=repositories)
 
-🔨 Latest frameworks [api-ui-java](https://github.com/Goralive/api-testing-framework)
+🔨 Latest frameworks [api-ui-java](https://github.com/Goralive/api-testing-framework) [kafka-backend-java-testing](https://github.com/Goralive/backend-gradle-kafka-java)
 
 💬 Ask me about **QA, AQA can share my knowledge with you**
 

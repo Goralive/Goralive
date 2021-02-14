@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 <a href="https://t.me/jacksonford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/jacksonford" height="20" width="20" /></a>
 </p>
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=goralive&show_icons=true" alt="goralive" />
-</p>
+<a target="_blank" href="https://github.com/goralive"> 
+<img alt="Igor Nosovskyi GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=goralive&show_icons=true&count_private=true&theme=nord&hide_border=true&hide_rank=true" />
+</a>
+<a target="_blank" href="https://github.com/goralive?tab=repositories"> 
+<img alt='Languages' align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=goralive&theme=nord&layout=compact&hide_border=true'
+</a>

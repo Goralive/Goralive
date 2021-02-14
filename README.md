@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 <img alt="Igor Nosovskyi GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=goralive&show_icons=true&count_private=true&theme=nord&hide_border=true&hide_rank=true" />
 </a>
 <a target="_blank" href="https://github.com/goralive?tab=repositories"> 
-<img alt='Languages' align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=goralive&theme=nord&layout=compact&hide_border=true'
+<img alt='Languages' align='top' src='https://github-readme-stats.vercel.app/api/top-langs/?username=goralive&theme=nord&layout=compact&hide_border=true'
 </a>

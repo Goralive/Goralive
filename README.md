@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 <img alt='Languages' align='top' src='https://github-readme-stats.vercel.app/api/top-langs/?username=goralive&theme=nord&layout=compact&hide_border=true'
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=goralive&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="goralive"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=goralive&theme=nord&date_format=j%20M%5B%20Y%5D&fire=FF7F50" alt="goralive"/></p>

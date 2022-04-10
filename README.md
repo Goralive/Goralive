@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="selenium" width="25" height="25"/>
   <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="rest" width="25" height="25"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="25" height="25"/>
+    <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="25" height="25"/>
+    <img src="  https://img.icons8.com/color/48/000000/python.png" alt="python" width="25" height="25"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="25" height="25"/> 
   <img src="https://img.icons8.com/color/48/000000/code.png" alt="terminal" width="25" height="25"/> 
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="25" height="25"/> 

@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about **QA, AQA can share my knowledge with you**
 
-🌱 I’m currently learning **Java and JS/TS, passing courses from udemy platform.**
+🌱 I’m currently learning **Web Development in JS/TS, Kotlin, Java**
 
 👋 If you want to become my mentor or just to say hi feel free to contact me
 

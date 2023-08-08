@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ![If you never try, you will never know](https://github.com/Goralive/Goralive/blob/master/gifs/T7Kv.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=goralive" alt="goralive" />
   <img src="https://img.icons8.com/color/48/000000/bug.png" alt="testing"  width="25" height="25" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="25" height="25"/> 
   <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="selenium" width="25" height="25"/>
@@ -50,6 +49,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/nosovskyigor/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nosovskyigor/" height="20" width="20" /></a>
 <a href="https://t.me/jacksonford" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/jacksonford" height="20" width="20" /></a>
 </p>
+<div class="viewCounter">
+  <a href="https://u8views.com/github/Goralive"><img src="https://u8views.com/api/v1/github/profiles/15832117/views/day-week-month-total-count.svg"></a>
+</div>
 
 <a target="_blank" href="https://github.com/goralive"> 
 <img alt="Igor Nosovskyi GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=goralive&show_icons=true&count_private=true&theme=nord&hide_border=true&hide_rank=true" />
